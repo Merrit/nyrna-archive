@@ -1,3 +1,7 @@
+_This is an archive of the Python version of Nyrna. Python doesn't seem to have a very good experience packaging for end-users, and I believe software should be easy to use - so I rewrote it in Go._
+
+The current verion is here: https://github.com/Merrit/nyrna
+
 # Nyrna
 
 **Nyrna allows the user to pause any game or application on their PC.**
